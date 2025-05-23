@@ -1,0 +1,4 @@
+# tenant1_sample.csv
+tenant_id,customer_id,name,email,phone
+tenant1,cust1,John Doe,john@example.com,123-456-7890
+tenant1,cust2,Jane Smith,jane@example.com,098-765-4321

@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "<s3_bucket_name_from_terraform_output>"
+        },
+        "object": {
+          "key": "tenant1/tenant1_sample.csv"
+        }
+      }
+    }
+  ]
+}
