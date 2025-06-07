@@ -4,7 +4,10 @@ module "Data_Ingestion" {
   region      = var.region
 }
 
+module "Apps_Networking" {
+  source      = "./modules/Apps_Networking"
+}
+
 resource "random_id" "suffix" {
   byte_length = 4
 }
-

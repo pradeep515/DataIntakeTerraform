@@ -1,0 +1,10 @@
+tenant_id,medical_record_number,first_name,last_name,date_time,doctors_notes
+tenant_123,MRN001,John,Doe,2023-01-15 14:30:00,Stable condition
+tenant_123,MRN003,kale,Doona,2023-03-16 14:30:00,concerning
+tenant_123,MRN004,Jane,dsf,2023-02-20 09:15:00,Follow-up needed
+tenant_8,MRN005,sdfJane,dsf,2023-02-20 09:15:00,Follow-up needed
+tenant_9,MRN006,Jasdfne,Smisddsth,2023-02-20 09:15:00,Follow-up needed
+tenant_10,MRN007,Jasddne,Smdsdsdsdith,2023-02-20 09:15:00,Follow-up needed
+tenant_11,MRN008,Jasdsdne,Smsdddsdith,2023-02-20 09:15:00,Follow-up needed
+tenant_12,MRN001,Jadddne,Smiddsdsdssqqrth,2023-02-20 09:15:00,Follow-up needed
+tenant_12,MRN002,Garry,Smith,2023-02-20 09:15:00,Follow-up needed

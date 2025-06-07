@@ -1,0 +1,3 @@
+tenant_id,first_name,last_name,date_time,doctors_notes
+tenant_123,,Doe,2023-01-15 14:30:00,Stable condition
+tenant_555,Jane,Smith,2023-02-20 09:15:00,Follow-up needed
